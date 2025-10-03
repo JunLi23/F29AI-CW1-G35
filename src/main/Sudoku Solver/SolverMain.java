@@ -6,7 +6,7 @@ public static void main() {
 
 int sudokuUnsolved[][]
 
-for (int i = 1; i = 1 to 8; i++) {
+for (int i = 1; i = < 9; i++) {
 
 }
 
